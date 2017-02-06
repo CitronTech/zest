@@ -1,0 +1,19 @@
+{
+  "name": "zest",
+  "version": "0.0.1",
+  "description": "a javascript library of UI building blocks",
+  "main": "zest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CitronTech/zest.git"
+  },
+  "author": "Gerald Truong aka TheBentArrow aka ForwardMotion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CitronTech/zest/issues"
+  },
+  "homepage": "https://github.com/CitronTech/zest#readme"
+}
