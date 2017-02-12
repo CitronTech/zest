@@ -1,14 +1,15 @@
 import Panel from './components/Panel'
-import TwoColumns from './components/TwoColumns'
+import TwoSections from './components/TwoSections'
+import css from './styles.less'
 
 let Zest = {
   Panel,
-  TwoColumns
+  TwoSections
 }
 
 export { 
   Panel,
-  TwoColumns
+  TwoSections
 }
 
 export default Zest
